@@ -31,9 +31,9 @@ requirements = [
 
 
 setuptools.setup(
-    name="ethon",
+    name="okay",
     version=ver,
-    author="vasusen-code",
+    author="Telegram-R2RR7",
     description=desc,
     long_description=long_desc,
     long_description_content_type="text/markdown",
